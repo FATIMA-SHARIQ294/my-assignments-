@@ -1,5 +1,6 @@
 // let number1 =20
 // let number1 =40
+// console.log(number1);
 // the above code is am error 
 console.log("Addition of numbers to get number '8'");
 var number1 = 4;
